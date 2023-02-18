@@ -14,3 +14,9 @@ git branch -d “name_branch” -> borra una rama especificada.
 git checkout “name_branch” -> nos ubica en una rama.
 
 git checkout -b “name_branch” -> crea y ubica en esa rama.
+
+git log
+
+git config --global init.defaultBranch "<branch_name>"
+
+git switch "<name_branch>"
